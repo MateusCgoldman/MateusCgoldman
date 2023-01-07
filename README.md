@@ -9,17 +9,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCgoldman&layout=compact&langs_cout=16&theme=dracula"/>
 </div>
   
-  <div style="display: inline_block"><br>
-    
-    
-            <img align="center"  alt="10" height="30" width="40" 
-                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
-          
-  
-          
-    
-    
-    
-    
-    
-  </div>
+##
+  <div>
+  <a href="https://www.instagram.com/_oogoldman_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" targe-"_blank"><a/>
+     <a href="https://twitter.com/Goldman_Naliati" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=blue" targe-"_blank"><a/>
+       
+
+   
+   </div>
+
