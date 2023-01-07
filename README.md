@@ -6,5 +6,6 @@
 <div> 
 <a href="https://github.com/MateusCgoldman">
   <a href="https://www.linkedin.com/in/mateus-goldman-55b8b21a0/">
-    <img height="180em" src"https://github-readme-stats.vercel.app/api?username=MateusCgoldmanshow_icons=true&theme=dracula&include_all_commits=true&cout_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusCgoldmanshow_icons=true&theme=dracula&include_all_commits=true&cout_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.api/top-langs/?username=MateusCgoldman&layout-compact&langs_cout-16&theme-dracula"/>
 </div>
