@@ -3,12 +3,12 @@
 - 🌱 Estou estudando JavaScript e flask
 - 📫 Contate-me no email: mateuscgoldman0@gmail.com
 
-
+<div style>
 
 <div> 
 <a href="https://github.com/MateusCgoldman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusCgoldman&show_icons=true&theme=dracula&include_all_commit=true&cout_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCgoldman&layout=Flex&langs_cout=16&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MateusCgoldman&show_icons=true&theme=dracula&includ_all_commit=true&cout_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCgoldman&layout=Big&langs_cout=16&theme=dracula"/>
 </div>
   
 
@@ -19,3 +19,4 @@
 
    
    </div>
+    </div style>
